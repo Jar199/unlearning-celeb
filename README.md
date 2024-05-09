@@ -1,1 +1,1 @@
-# unlearning-celeb
+# Machine Unlearning Algorithm to make Celebrity Face Forgetful
